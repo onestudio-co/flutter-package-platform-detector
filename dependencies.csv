@@ -1,0 +1,5 @@
+Package,Is plugin,Android,iOS,macOS,Windows,Linux,Web,Notes
+http,false,✅,✅,✅,✅,✅,✅,
+yaml,false,✅,✅,✅,✅,✅,✅,
+csv,false,✅,✅,✅,✅,✅,✅,
+agora_rtc_engine,true,✅,✅,✅,✅,❌,❌,Web not supported ⚠️
