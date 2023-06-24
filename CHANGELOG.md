@@ -2,6 +2,11 @@
 
 All notable changes to "flutter_package_platform_detector" will be documented in this file.
 
+## 0.0.0+3
+
+### Fixed
+- update cliVersion in version_command file.
+
 ## 0.0.0+2
 
 ### Added
