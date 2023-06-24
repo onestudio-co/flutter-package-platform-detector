@@ -101,6 +101,8 @@ class DetectCommand extends Command<void> {
 
     var csv = const ListToCsvConverter().convert(rows);
 
-    File('dependencies.csv').writeAsStringSync(csv);
+    final file = File('dependencies.csv')..writeAsStringSync(csv);
+
+    print('generate dependence.csv file done on path ${file.path}  🎉');
   }
 }
