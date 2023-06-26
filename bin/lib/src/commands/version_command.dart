@@ -19,7 +19,7 @@ import 'package:pub_updater/pub_updater.dart';
 /// dart main.dart v
 /// ```
 ///
-const cliVersion = '0.0.0+3';
+const cliVersion = '0.0.0+4';
 
 class VersionCommand extends Command<void> {
   @override

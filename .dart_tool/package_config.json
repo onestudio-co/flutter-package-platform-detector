@@ -27,9 +27,9 @@
     },
     {
       "name": "collection",
-      "rootUri": "file:///Users/salahamassi/.pub-cache/hosted/pub.dev/collection-1.17.0",
+      "rootUri": "file:///Users/salahamassi/.pub-cache/hosted/pub.dev/collection-1.17.2",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.18"
     },
     {
       "name": "csv",
@@ -39,9 +39,9 @@
     },
     {
       "name": "dart_console",
-      "rootUri": "file:///Users/salahamassi/.pub-cache/hosted/pub.dev/dart_console-1.1.2",
+      "rootUri": "file:///Users/salahamassi/.pub-cache/hosted/pub.dev/dart_console-1.2.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "ffi",
@@ -57,7 +57,7 @@
     },
     {
       "name": "http",
-      "rootUri": "file:///Users/salahamassi/.pub-cache/hosted/pub.dev/http-1.0.0",
+      "rootUri": "file:///Users/salahamassi/.pub-cache/hosted/pub.dev/http-1.1.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -75,7 +75,7 @@
     },
     {
       "name": "intl",
-      "rootUri": "file:///Users/salahamassi/.pub-cache/hosted/pub.dev/intl-0.17.0",
+      "rootUri": "file:///Users/salahamassi/.pub-cache/hosted/pub.dev/intl-0.18.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -87,7 +87,7 @@
     },
     {
       "name": "meta",
-      "rootUri": "file:///Users/salahamassi/.pub-cache/hosted/pub.dev/meta-1.8.0",
+      "rootUri": "file:///Users/salahamassi/.pub-cache/hosted/pub.dev/meta-1.9.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -153,9 +153,9 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///Users/salahamassi/.pub-cache/hosted/pub.dev/win32-2.7.0",
+      "rootUri": "file:///Users/salahamassi/.pub-cache/hosted/pub.dev/win32-5.0.4",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "yaml",
@@ -167,10 +167,10 @@
       "name": "package_platform_detector",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.16"
+      "languageVersion": "2.15"
     }
   ],
-  "generated": "2023-06-26T17:43:38.238122Z",
+  "generated": "2023-06-26T22:15:32.475727Z",
   "generator": "pub",
-  "generatorVersion": "3.0.5"
+  "generatorVersion": "3.0.3"
 }

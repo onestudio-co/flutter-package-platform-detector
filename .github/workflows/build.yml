@@ -1,0 +1,23 @@
+name: Dart CI
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: dart-lang/setup-dart@v1
+
+      - name: Install dependencies
+        run: dart pub get
+
+      - name: Analyze package
+        run: dart analyze
+
+      - name: Build package
+        run: dart pub global activate --source="path" . --executable="package_platform_detector" --overwrite
