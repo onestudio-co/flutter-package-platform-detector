@@ -58,3 +58,12 @@ Please see the `LICENSE.md` file for more information on the license.
 ## Contributing
 
 Contributions are always welcome!
+
+# Support
+<p align="center">
+<a href='https://ko-fi.com/U7U5E1983' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>
+
+ ### Developer
+
+ - [Salah Nahed](https://twitter.com/salahamassi)
