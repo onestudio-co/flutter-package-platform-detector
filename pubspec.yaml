@@ -3,7 +3,7 @@ description: Flutter Package Platform Detector analyzes Flutter project dependen
 homepage: https://github.com/onestudio-co/flutter-package-platform-detector
 repository: https://github.com/onestudio-co/flutter-package-platform-detector
 
-version: 0.0.0+4
+version: 0.0.0+6
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
