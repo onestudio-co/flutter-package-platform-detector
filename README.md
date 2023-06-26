@@ -2,7 +2,7 @@
 
 [![pub package](https://img.shields.io/pub/v/package_platform_detector.svg)](https://pub.dartlang.org/packages/package_platform_detector)
 
-[![Build Status](https://api.cirrus-ci.com/github/MaikuB/flutter_local_notifications.svg)](https://cirrus-ci.com/github/MaikuB/package_platform_detector/main)
+[![Dart CI](https://github.com/onestudio-co/flutter-package-platform-detector/actions/workflows/build.yml/badge.svg)](https://github.com/onestudio-co/flutter-package-platform-detector/actions/workflows/build.yml)
 
 This Dart CLI application helps you identify the platform support of every dependency in a Flutter
 project's `pubspec.yaml` file. It fetches information from `pub.dev` about each package, determines
@@ -46,7 +46,6 @@ detect command as shown above. This will generate a CSV file named `dependencies
 directory.
 
 <img width="1434" alt="image" src="https://github.com/onestudio-co/flutter-package-platform-detector/assets/17902030/f71583d8-7282-49f9-83f8-fe960f2a0510">
-
 
 ## Changelog
 
