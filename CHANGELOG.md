@@ -2,12 +2,17 @@
 
 All notable changes to "flutter_package_platform_detector" will be documented in this file.
 
-## 0.0.0+5
+## 0.0.0+6
+
+### Added
+
+- add support and contact section on README.md.
+
+- ## 0.0.0+5
 
 ### Added
 
 - add build.yml work flow.
-
 
 ## 0.0.0+4
 
