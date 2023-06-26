@@ -68,7 +68,7 @@
         <entry key="http">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/http-0.13.6/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/http-1.0.0/lib" />
             </list>
           </value>
         </entry>
@@ -128,10 +128,17 @@
             </list>
           </value>
         </entry>
+        <entry key="pub_semver">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/pub_semver-2.1.4/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="pub_updater">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/pub_updater-0.2.4/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/pub_updater-0.3.1/lib" />
             </list>
           </value>
         </entry>
@@ -196,7 +203,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/dart_console-1.1.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/ffi-2.0.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/file-6.1.4/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/http-0.13.6/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/http-1.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/http_parser-4.0.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/interact-2.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/intl-0.17.0/lib" />
@@ -205,7 +212,8 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/path-1.8.3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/platform-3.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/process-4.2.4/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/pub_updater-0.2.4/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/pub_semver-2.1.4/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/pub_updater-0.3.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/source_span-1.10.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/string_scanner-1.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/term_glyph-1.2.1/lib" />

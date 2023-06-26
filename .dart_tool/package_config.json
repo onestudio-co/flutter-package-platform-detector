@@ -57,9 +57,9 @@
     },
     {
       "name": "http",
-      "rootUri": "file:///Users/salahamassi/.pub-cache/hosted/pub.dev/http-0.13.6",
+      "rootUri": "file:///Users/salahamassi/.pub-cache/hosted/pub.dev/http-1.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "http_parser",
@@ -110,10 +110,16 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "pub_updater",
-      "rootUri": "file:///Users/salahamassi/.pub-cache/hosted/pub.dev/pub_updater-0.2.4",
+      "name": "pub_semver",
+      "rootUri": "file:///Users/salahamassi/.pub-cache/hosted/pub.dev/pub_semver-2.1.4",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "pub_updater",
+      "rootUri": "file:///Users/salahamassi/.pub-cache/hosted/pub.dev/pub_updater-0.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "source_span",
@@ -164,7 +170,7 @@
       "languageVersion": "2.16"
     }
   ],
-  "generated": "2023-06-24T23:24:46.311242Z",
+  "generated": "2023-06-26T07:20:18.632084Z",
   "generator": "pub",
-  "generatorVersion": "2.19.6"
+  "generatorVersion": "3.0.5"
 }

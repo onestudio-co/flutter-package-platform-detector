@@ -1,7 +1,7 @@
-import 'package:args/command_runner.dart';
 import 'dart:convert';
 import 'dart:io';
 
+import 'package:args/command_runner.dart';
 import 'package:csv/csv.dart';
 import 'package:http/http.dart' as http;
 import 'package:yaml/yaml.dart';
@@ -81,10 +81,12 @@ class DetectCommand extends Command<void> {
       final linux = platforms?['linux'] != null ? '✅' : (isPlugin ? '❌' : '✅');
 
       var notes = [];
-      if (platforms?.containsKey('macos') == false)
+      if (platforms?.containsKey('macos') == false) {
         notes.add('macOS not supported ⚠️');
-      if (platforms?.containsKey('web') == false)
+      }
+      if (platforms?.containsKey('web') == false) {
         notes.add('Web not supported ⚠️');
+      }
 
       rows.add([
         package,

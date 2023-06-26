@@ -77,10 +77,10 @@ packages:
     dependency: "direct main"
     description:
       name: http
-      sha256: "5895291c13fa8a3bd82e76d5627f69e0d85ca6a30dcac95c4ea19a5d555879c2"
+      sha256: "4c3f04bfb64d3efd508d06b41b825542f08122d30bda4933fb95c069d22a4fa3"
       url: "https://pub.dev"
     source: hosted
-    version: "0.13.6"
+    version: "1.0.0"
   http_parser:
     dependency: transitive
     description:
@@ -145,14 +145,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.2.4"
+  pub_semver:
+    dependency: transitive
+    description:
+      name: pub_semver
+      sha256: "40d3ab1bbd474c4c2328c91e3a7df8c6dd629b79ece4c4bd04bee496a224fb0c"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.1.4"
   pub_updater:
     dependency: "direct main"
     description:
       name: pub_updater
-      sha256: "42890302ab2672adf567dc2b20e55b4ecc29d7e19c63b6b98143ab68dd717d3a"
+      sha256: b06600619c8c219065a548f8f7c192b3e080beff95488ed692780f48f69c0625
       url: "https://pub.dev"
     source: hosted
-    version: "0.2.4"
+    version: "0.3.1"
   source_span:
     dependency: transitive
     description:
@@ -210,4 +218,4 @@ packages:
     source: hosted
     version: "3.1.2"
 sdks:
-  dart: ">=2.19.0 <3.0.0"
+  dart: ">=3.0.0 <4.0.0"
